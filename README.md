@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a developer and (occasional) designer by day and entrepeneur by night (over at RainierWatch.com). 
+I'm a developer and (occasional) designer by day and entrepreneur by night (over at RainierWatch.com). 
 
 <!--
 **austriker27/austriker27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

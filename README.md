@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Developer and Designer by day and Entrepreneur running [an ecommerce company that gives back on Shopify](https://shop.rainierwatch.com/) by night. 
+I'm a Developer and Designer by day and Entrepreneur running [an ecommerce company powered by Shopify](https://shop.rainierwatch.com/) that gives back.
 
 I love bringing ideas to life for people just like you. It’s somewhat of a passion of mine, dating back to 2013 when I started tweeting as Rainier Watch when The Mountain was out and since then I’ve grown a social media following to over 50,000 and have had over $100,000 in sales.
 

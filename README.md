@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I'm a developer and (occasional) designer by day and entrepreneur by night (over at RainierWatch.com). 
+I'm a Developer and Designer by day and Entrepreneur running [an ecommerce company that gives back on Shopify](https://shop.rainierwatch.com/) by night. 
+
+I love bringing ideas to life for people just like you. It’s somewhat of a passion of mine, dating back to 2013 when I started tweeting as Rainier Watch when The Mountain was out and since then I’ve grown a social media following to over 50,000 and have had over $100,000 in sales.
+
+I’ve built 20+ websites for clients and worked on internal revenue generating products at prior agencies. I’ve built websites used by hundreds, thousands, and even millions of people.
+
+In the past I’ve used various web tools like Vue.js, CMSes like Statamic and Craft, HTML/CSS, Tailwind CSS, Alpine.JS, and even, yes, jQuery, to make epic digital solutions for clients like Sony, the Ad Council, Laravel News, Microsoft, and SAP Concur. At the end of the day, I love crafting intuitive digital solutions for compelling brands and creating beautiful user experiences that surprise and delight end users. 
 
 <!--
 **austriker27/austriker27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

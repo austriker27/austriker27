@@ -6,7 +6,7 @@ I love bringing ideas to life for people just like you. It’s somewhat of a pas
 
 I’ve built 20+ websites for clients and worked on internal revenue generating products at prior agencies. I’ve built websites used by hundreds, thousands, and even millions of people.
 
-In the past I’ve used various web tools like Vue.js, CMSes like Statamic and Craft, HTML/CSS, Tailwind CSS, Alpine.JS, and even, yes, jQuery, to make epic digital solutions for clients like Sony, the Ad Council, Laravel News, Microsoft, and SAP Concur. At the end of the day, I love crafting intuitive digital solutions for compelling brands and creating beautiful user experiences that surprise and delight end users. 
+In the past I’ve used various web tools like Vue.js (and NuxtJS), CMS platforms (Statamic, Craft), HTML5, CSS3, Tailwind CSS, Alpine.JS, and even, yes, jQuery, to make epic digital solutions for clients like Sony, the Ad Council, Laravel News, Microsoft, and SAP Concur. At the end of the day, I love crafting intuitive digital solutions for compelling brands and creating beautiful user experiences that surprise and delight end users. 
 
 <!--
 **austriker27/austriker27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
